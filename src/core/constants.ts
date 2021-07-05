@@ -5,6 +5,7 @@ const Constants = {
   splashLottie3: require('../../assets/lottie/splash3.json'),
   splashLottie5: require('../../assets/lottie/splash5.json'),
   splashLottie7: require('../../assets/lottie/splash7.json'),
+  pinServiceName: 'miraiPinService',
 };
 
 // Colors
@@ -14,6 +15,7 @@ const Constants = {
 
 export const Colors = {
   mainLight: '#F9F9F9',
+  mainDark: '#0E1117',
 };
 
 export default Constants;

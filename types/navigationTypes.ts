@@ -1,10 +1,11 @@
 export type RootStackParamList = {
   Init: undefined;
-  Auth: undefined;
+  Login: undefined;
+  Register: undefined;
   Main: undefined;
 };
 export type AuthStackParamList = {
-  Signup: { login: boolean };
+  Signup: {login: boolean};
   Landing: undefined;
 };
 
