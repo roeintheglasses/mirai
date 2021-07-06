@@ -16,6 +16,14 @@ const Constants = {
 export const Colors = {
   mainLight: '#F9F9F9',
   mainDark: '#0E1117',
+  mainRed: '#E78C8C',
+  mainActiveRed: '#EE6D6D',
+  mainDimGray: '#9f9f9f',
+};
+
+export const Size = {
+  navIconSize: 30,
+  mainVerticlePadding: 20,
 };
 
 export default Constants;

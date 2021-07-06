@@ -10,6 +10,11 @@ export type AuthStackParamList = {
 };
 
 export type MainStackParamList = {
-  Landing: undefined;
   HomeScreen: undefined;
+};
+
+export type MainTabParamList = {
+  HomeScreen: undefined;
+  Add: undefined;
+  Settings: undefined;
 };
